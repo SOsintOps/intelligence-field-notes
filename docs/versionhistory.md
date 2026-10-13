@@ -4,6 +4,12 @@ Changelog of the Intelligence Field Notes.
 
 ---
 
+## 0.1.3 — 2026
+
+- **Fixed:** "How to Write an Intelligence Product in the BLUF Format" is attributed as what it is, an anonymous teaching exercise built on an assessment by the US DOJ National Drug Intelligence Center, not a DOJ document ([Report Writing](report-writing.md#further-reading), [Reading List](reading-list.md)).
+
+---
+
 ## 0.1.2 — 2026
 
 - **New:** [Source Evaluation](source-evaluation.md#one-exception-machine-graded-cti-feeds) and the [FAQ](faq.md#does-every-sosintops-tool-use-the-4-x-4-system) explain why Elementary CTI keeps the 6 x 6 system for machine-graded feed items, and how to convert its grades when an item moves into a case report.

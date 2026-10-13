@@ -38,7 +38,7 @@ This section absorbs the [awesome-intelligence-writing](https://github.com/mxm0z
 - **Mercyhurst College Institute for Intelligence Studies, "The Analyst's Style Manual"**. [PDF](https://ncirc.bja.ojp.gov/sites/ncirc/files/media/document/analysts_style_manual.pdf)
 - **Defense Intelligence Agency, "Style Manual for Intelligence Production"** (2016). [PDF (governmentattic.org)](https://www.governmentattic.org/23docs/DIAstyleManualIntelProd_2016.pdf)
 - **US Army Intelligence Center of Excellence, writing programme resources**. [USAICoE Writing Program](https://intellibrary.libguides.com/c.php?g=654854&p=6527880) · [Enhancing Your Intelligence Writing](https://intellibrary.libguides.com/ld.php?content_id=53826333)
-- **"How to Write an Intelligence Product in the Bottom Line Up Front (BLUF) Format"** (US DOJ material). [PDF](https://courses.physics.illinois.edu/phys280/sp2022/docs-for-assignments/BLUF%20Writing%20Format.pdf)
+- **"How to Write an Intelligence Product in the Bottom Line Up Front (BLUF) Format"** (anonymous teaching exercise built on an assessment by the US DOJ National Drug Intelligence Center). [PDF](https://courses.physics.illinois.edu/phys280/sp2022/docs-for-assignments/BLUF%20Writing%20Format.pdf)
 
 ### Articles and papers
 - [Writing Tips from the CIA's Ruthless Style Manual](https://qz.com/231110/writing-tips-from-the-cias-ruthless-style-manual/) (Quartz)

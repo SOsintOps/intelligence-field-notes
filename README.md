@@ -1,13 +1,13 @@
-# Intelligence Field Notes 0.1.2
+# Intelligence Field Notes 0.1.3
 
-![version](https://img.shields.io/badge/version-0.1.2-blue)
+![version](https://img.shields.io/badge/version-0.1.3-blue)
 ![licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey)
 ![language](https://img.shields.io/badge/language-en--GB-blue)
 ![last commit](https://img.shields.io/github/last-commit/SOsintOps/intelligence-field-notes)
 
 **Personal notes on intelligence analysis, OSINT method and the writing of intelligence reports, made available to everyone for convenience. They make no claim to be exhaustive: they are a practitioner's notebook, kept in order, with a link to every source they lean on.**
 
-Version 0.1.2 documents the one exception to the 4 x 4 grading (machine-graded CTI feeds in Elementary CTI), adds a note on running analytic techniques as AI procedures and lists the remaining public SOsintOps projects. Version 0.1.1 linked every text at its first mention, not only in the reading lists, and syncs Quaesitor through its development repository. Version 0.1.0 was the first release: the method pages that the SOsintOps tools used to carry in separate, drifting copies, merged into one set, checked against the original texts and extended with the report-writing guide none of them had. See the full [version history](docs/versionhistory.md).
+Version 0.1.3 corrects the attribution of the BLUF exercise in the reading lists. Version 0.1.2 documented the one exception to the 4 x 4 grading (machine-graded CTI feeds in Elementary CTI), added a note on running analytic techniques as AI procedures and listed the remaining public SOsintOps projects. Version 0.1.1 linked every text at its first mention, not only in the reading lists, and syncs Quaesitor through its development repository. Version 0.1.0 was the first release: the method pages that the SOsintOps tools used to carry in separate, drifting copies, merged into one set, checked against the original texts and extended with the report-writing guide none of them had. See the full [version history](docs/versionhistory.md).
 
 ---
 
