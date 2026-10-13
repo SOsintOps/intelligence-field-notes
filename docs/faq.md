@@ -10,6 +10,7 @@ Frequently asked questions about the notes: what they are, the choices behind th
 * [Where should I start?](#where-should-i-start)
 * [Why follow a US directive (ICD 203) outside government?](#why-follow-a-us-directive-icd-203-outside-government)
 * [Why the UNODC 4 x 4 system and not the Admiralty 6 x 6?](#why-the-unodc-4-x-4-system-and-not-the-admiralty-6-x-6)
+* [Does every SOsintOps tool use the 4 x 4 system?](#does-every-sosintops-tool-use-the-4-x-4-system)
 * [Why only one row of the likelihood scale?](#why-only-one-row-of-the-likelihood-scale)
 * [How do the SOsintOps tools use these notes?](#how-do-the-sosintops-tools-use-these-notes)
 * [Can I edit the copy of a page inside a tool's repository?](#can-i-edit-the-copy-of-a-page-inside-a-tools-repository)
@@ -41,6 +42,9 @@ Because it is short, public, free and testable. Its five analytic and nine trade
 ### Why the UNODC 4 x 4 system and not the Admiralty 6 x 6?
 The 4 x 4 system grades information on how close the source was to it (personal knowledge, corroboration), which makes grading less subjective; the 6 x 6 system grades how plausible it sounds. The 4 x 4 is also the system of Europol and of the UNODC manual that the link-analysis method follows. One system everywhere means a grade written in one tool means the same in another. [Source Evaluation](source-evaluation.md#converting-from-the-6-x-6-admiralty-system) explains how to convert old 6 x 6 grades.
 
+### Does every SOsintOps tool use the 4 x 4 system?
+All but one. [Elementary CTI](https://github.com/SOsintOps/elementary-CTI) grades feed items partly by computation, and the 4 x 4 question "did the source know this personally?" has no answer for an RSS article, while the 6 x 6 questions (confirmed, consistent, contradicted) do. It therefore keeps the 6 x 6, and says so. [Source Evaluation](source-evaluation.md#one-exception-machine-graded-cti-feeds) explains the reasoning and how to convert its grades when an item moves into a case report.
+
 ### Why only one row of the likelihood scale?
 ICD 203 offers two equivalent rows and strongly discourages mixing them. A list that takes "remote" from one row and "very likely" from the other is the most common way it goes wrong. The notes and the SOsintOps templates use the first row: almost no chance, very unlikely, unlikely, roughly even chance, likely, very likely, almost certain.
 
@@ -53,7 +57,7 @@ Each tool keeps its own short guidelines page about what is specific to its work
 No: each copy starts with a line saying where it comes from, and the next synchronisation overwrites it. Correct the page here and run the synchronisation.
 
 ### Are there related SOsintOps projects?
-Yes: workstations ([Argos](https://github.com/SOsintOps/Argos), [Speculator](https://github.com/SOsintOps/Speculator-Project), [Wukong](https://github.com/SOsintOps/Wukong)), a browser toolkit ([Exploratores](https://github.com/SOsintOps/Exploratores)), a case graph ([Quaesitor](https://github.com/SOsintOps/quaesitor)), a ransomware CTI aggregator ([Elementary CTI](https://github.com/SOsintOps/elementary-CTI)), a corporate-register analyser ([Aethelburg](https://github.com/SOsintOps/Aethelburg-project)) and more. See [Related Projects](related-projects.md).
+Yes: workstations ([Argos](https://github.com/SOsintOps/Argos), [Speculator](https://github.com/SOsintOps/Speculator-Project), [Wukong](https://github.com/SOsintOps/Wukong)), a browser toolkit ([Exploratores](https://github.com/SOsintOps/Exploratores)), a case graph ([Quaesitor](https://github.com/SOsintOps/quaesitor)), a ransomware CTI aggregator ([Elementary CTI](https://github.com/SOsintOps/elementary-CTI)), a corporate-register analyser ([Aethelburg](https://github.com/SOsintOps/Aethelburg-project)), a council of analytic procedures for AI ([Il Conclave](https://github.com/SOsintOps/il-conclave)) and more. See [Related Projects](related-projects.md).
 
 ## Licence and Contributions
 

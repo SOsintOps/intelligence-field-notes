@@ -1,13 +1,13 @@
-# Intelligence Field Notes 0.1.1
+# Intelligence Field Notes 0.1.2
 
-![version](https://img.shields.io/badge/version-0.1.1-blue)
+![version](https://img.shields.io/badge/version-0.1.2-blue)
 ![licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey)
 ![language](https://img.shields.io/badge/language-en--GB-blue)
 ![last commit](https://img.shields.io/github/last-commit/SOsintOps/intelligence-field-notes)
 
 **Personal notes on intelligence analysis, OSINT method and the writing of intelligence reports, made available to everyone for convenience. They make no claim to be exhaustive: they are a practitioner's notebook, kept in order, with a link to every source they lean on.**
 
-Version 0.1.1 links every text at its first mention, not only in the reading lists, and syncs Quaesitor through its development repository. Version 0.1.0 was the first release: the method pages that the SOsintOps tools used to carry in separate, drifting copies, merged into one set, checked against the original texts and extended with the report-writing guide none of them had. See the full [version history](docs/versionhistory.md).
+Version 0.1.2 documents the one exception to the 4 x 4 grading (machine-graded CTI feeds in Elementary CTI), adds a note on running analytic techniques as AI procedures and lists the remaining public SOsintOps projects. Version 0.1.1 linked every text at its first mention, not only in the reading lists, and syncs Quaesitor through its development repository. Version 0.1.0 was the first release: the method pages that the SOsintOps tools used to carry in separate, drifting copies, merged into one set, checked against the original texts and extended with the report-writing guide none of them had. See the full [version history](docs/versionhistory.md).
 
 ---
 
@@ -32,7 +32,7 @@ Version 0.1.1 links every text at its first mention, not only in the reading lis
 They are notes: a working summary of public standards ([ICD 203](https://www.dni.gov/files/documents/ICD/ICD-203.pdf), the UNODC [*Criminal Intelligence: Manual for Analysts*](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf), the [Berkeley Protocol](https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/)), of the classic texts (Heuer, Pherson, Kent) and of practice. They are not an official doctrine, a course or a substitute for the texts they summarise; where they disagree with a standard, the standard is right and an [issue](https://github.com/SOsintOps/intelligence-field-notes/issues) is welcome.
 
 Three choices run through all the pages:
-- **One grading system:** the UNODC 4 x 4 (source A, B, C, X; information 1 to 4).
+- **One grading system:** the UNODC 4 x 4 (source A, B, C, X; information 1 to 4), with one documented exception for machine-graded CTI feeds.
 - **One likelihood row:** the first row of the ICD 203 scale, from *almost no chance* to *almost certain*, with confidence stated separately.
 - **The report is the product:** charts, graphs and dashboards support a written report; they never replace it.
 
@@ -53,7 +53,7 @@ The targets are listed in [`tools/targets.json`](tools/targets.json). Quaesitor 
 
 ## Related Projects
 
-[Exploratores](https://github.com/SOsintOps/Exploratores) · [Argos](https://github.com/SOsintOps/Argos) · [Speculator](https://github.com/SOsintOps/Speculator-Project) · [Wukong](https://github.com/SOsintOps/Wukong) · [Quaesitor](https://github.com/SOsintOps/quaesitor) · [Elementary CTI](https://github.com/SOsintOps/elementary-CTI) · [Aethelburg](https://github.com/SOsintOps/Aethelburg-project) · [Acta Diurna](https://github.com/SOsintOps/acta-diurna) · [Codex Machinae](https://github.com/SOsintOps/codex-machinae) — one line on each in [Related Projects](docs/related-projects.md).
+[Exploratores](https://github.com/SOsintOps/Exploratores) · [Argos](https://github.com/SOsintOps/Argos) · [Speculator](https://github.com/SOsintOps/Speculator-Project) · [Wukong](https://github.com/SOsintOps/Wukong) · [Quaesitor](https://github.com/SOsintOps/quaesitor) · [Elementary CTI](https://github.com/SOsintOps/elementary-CTI) · [Aethelburg](https://github.com/SOsintOps/Aethelburg-project) · [Acta Diurna](https://github.com/SOsintOps/acta-diurna) · [Codex Machinae](https://github.com/SOsintOps/codex-machinae) · [Il Conclave](https://github.com/SOsintOps/il-conclave) · [Claudii Exploratores](https://github.com/SOsintOps/claudii-exploratores) — one line on each in [Related Projects](docs/related-projects.md).
 
 ---
 
