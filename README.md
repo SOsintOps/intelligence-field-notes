@@ -47,7 +47,7 @@ python tools/sync_core.py            # copy the pages into the repositories next
 python tools/sync_core.py --check    # show what would change, write nothing
 ```
 
-The targets are listed in [`tools/targets.json`](tools/targets.json). Each copy is marked with its origin and version; edit the original here, never the copy.
+The targets are listed in [`tools/targets.json`](tools/targets.json). Quaesitor is synced in its development repository and reaches the public one through its own release script. Each copy is marked with its origin and version; edit the original here, never the copy.
 
 ---
 

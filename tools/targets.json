@@ -13,7 +13,6 @@
     {"repo": "Argos", "dest": "docs/field-notes"},
     {"repo": "Speculator-Project", "dest": "documents/field-notes"},
     {"repo": "Wukong", "dest": "documentation/field-notes"},
-    {"repo": "quaesitor-project/quaesitor", "dest": "docs/field-notes"},
     {"repo": "quaesitor-project/quaesitor-sviluppo", "dest": "docs/field-notes"}
   ]
 }
