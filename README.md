@@ -1,13 +1,13 @@
-# Intelligence Field Notes 0.1.0
+# Intelligence Field Notes 0.1.1
 
-![version](https://img.shields.io/badge/version-0.1.0-blue)
+![version](https://img.shields.io/badge/version-0.1.1-blue)
 ![licence](https://img.shields.io/badge/licence-CC%20BY%204.0-lightgrey)
 ![language](https://img.shields.io/badge/language-en--GB-blue)
 ![last commit](https://img.shields.io/github/last-commit/SOsintOps/intelligence-field-notes)
 
 **Personal notes on intelligence analysis, OSINT method and the writing of intelligence reports, made available to everyone for convenience. They make no claim to be exhaustive: they are a practitioner's notebook, kept in order, with a link to every source they lean on.**
 
-Version 0.1.0 is the first release: the method pages that the SOsintOps tools used to carry in separate, drifting copies, merged into one set, checked against the original texts and extended with the report-writing guide none of them had. See the full [version history](docs/versionhistory.md).
+Version 0.1.1 links every text at its first mention, not only in the reading lists, and syncs Quaesitor through its development repository. Version 0.1.0 was the first release: the method pages that the SOsintOps tools used to carry in separate, drifting copies, merged into one set, checked against the original texts and extended with the report-writing guide none of them had. See the full [version history](docs/versionhistory.md).
 
 ---
 
@@ -29,7 +29,7 @@ Version 0.1.0 is the first release: the method pages that the SOsintOps tools us
 
 ## What These Notes Are, and Are Not
 
-They are notes: a working summary of public standards (ICD 203, the UNODC *Criminal Intelligence: Manual for Analysts*, the Berkeley Protocol), of the classic texts (Heuer, Pherson, Kent) and of practice. They are not an official doctrine, a course or a substitute for the texts they summarise; where they disagree with a standard, the standard is right and an [issue](https://github.com/SOsintOps/intelligence-field-notes/issues) is welcome.
+They are notes: a working summary of public standards ([ICD 203](https://www.dni.gov/files/documents/ICD/ICD-203.pdf), the UNODC [*Criminal Intelligence: Manual for Analysts*](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf), the [Berkeley Protocol](https://humanrights.berkeley.edu/publications/berkeley-protocol-on-digital-open-source-investigations/)), of the classic texts (Heuer, Pherson, Kent) and of practice. They are not an official doctrine, a course or a substitute for the texts they summarise; where they disagree with a standard, the standard is right and an [issue](https://github.com/SOsintOps/intelligence-field-notes/issues) is welcome.
 
 Three choices run through all the pages:
 - **One grading system:** the UNODC 4 x 4 (source A, B, C, X; information 1 to 4).
@@ -60,7 +60,7 @@ The targets are listed in [`tools/targets.json`](tools/targets.json). Quaesitor 
 ## Credits
 
 - The intelligence-writing section of the [Reading List](docs/reading-list.md#intelligence-writing) absorbs [awesome-intelligence-writing](https://github.com/mxm0z/awesome-intelligence-writing) by Ygor Maximo (MIT licence), with every link rechecked.
-- The source-evaluation and link-analysis method is rewritten in our own words from the UNODC *Criminal Intelligence: Manual for Analysts* (2011), which is linked and should be read in full.
+- The source-evaluation and link-analysis method is rewritten in our own words from the UNODC [*Criminal Intelligence: Manual for Analysts*](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf) (2011), which is linked and should be read in full.
 - ICD 203 and ICD 206 are public documents of the US Office of the Director of National Intelligence.
 
 ---

@@ -31,7 +31,7 @@ No. They are a practitioner's notes, with no claim to be exhaustive and no offic
 Anyone who runs open-source investigations and has to turn them into something another person can rely on: analysts, investigators, journalists, researchers, students, and the users of the SOsintOps tools.
 
 ### Where should I start?
-Read [Report Writing](report-writing.md) first: it shows where everything else is going. Then [Source Evaluation](source-evaluation.md) and [Estimative Language](estimative-language.md), which are short and change every report you write. Then [Analytic Techniques](analytic-techniques.md) with Heuer's *Psychology of Intelligence Analysis* beside it. The [Reading List](reading-list.md) has the rest.
+Read [Report Writing](report-writing.md) first: it shows where everything else is going. Then [Source Evaluation](source-evaluation.md) and [Estimative Language](estimative-language.md), which are short and change every report you write. Then [Analytic Techniques](analytic-techniques.md) with Heuer's [*Psychology of Intelligence Analysis*](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/) beside it. The [Reading List](reading-list.md) has the rest.
 
 ## Method Choices
 

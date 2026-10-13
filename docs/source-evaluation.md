@@ -1,6 +1,6 @@
 # Source Evaluation
 
-Information becomes intelligence only after it has been evaluated. These notes use one system everywhere: the **4 x 4 system** of the UNODC *Criminal Intelligence: Manual for Analysts*, the one used by Europol and widely adopted by police agencies. It is simple, and the manual explains why that is a virtue: grading information on personal knowledge rather than on plausibility makes it less subjective.
+Information becomes intelligence only after it has been evaluated. These notes use one system everywhere: the **4 x 4 system** of the UNODC [*Criminal Intelligence: Manual for Analysts*](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf), the one used by Europol and widely adopted by police agencies. It is simple, and the manual explains why that is a virtue: grading information on personal knowledge rather than on plausibility makes it less subjective.
 
 ## Three Principles
 1.  Evaluation is **professional judgement**, not personal feeling.

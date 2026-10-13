@@ -1,6 +1,6 @@
 # Analytic Techniques
 
-The mind is a poor instrument for judging incomplete and ambiguous information, and open sources are nothing but incomplete and ambiguous information. This page lists the cognitive traps that matter most in OSINT and the structured techniques that counter them. Its backbone is Richards Heuer's *Psychology of Intelligence Analysis*: the biases cannot be switched off by knowing about them, only worked around by method.
+The mind is a poor instrument for judging incomplete and ambiguous information, and open sources are nothing but incomplete and ambiguous information. This page lists the cognitive traps that matter most in OSINT and the structured techniques that counter them. Its backbone is Richards Heuer's [*Psychology of Intelligence Analysis*](https://www.cia.gov/resources/csi/books-monographs/psychology-of-intelligence-analysis-2/): the biases cannot be switched off by knowing about them, only worked around by method.
 
 ## Cognitive Biases That Matter in OSINT
 | Bias | What it does | OSINT example |

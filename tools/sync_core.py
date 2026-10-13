@@ -90,7 +90,7 @@ def sync_target(root: Path, target: dict, pages: list[str], version: str, check:
         old = path.read_text(encoding="utf-8") if path.exists() else None
         if old == content:
             continue
-        report.append(f"{'new' if old is None else 'update':6}{path.relative_to(root)}")
+        report.append(f"{'new' if old is None else 'update':7}{path.relative_to(root)}")
         if not check:
             dest.mkdir(parents=True, exist_ok=True)
             path.write_text(content, encoding="utf-8", newline="\n")
