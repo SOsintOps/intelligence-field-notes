@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "analytic-standards.md",
+    "osint-methodology.md",
+    "analytic-techniques.md",
+    "estimative-language.md",
+    "source-evaluation.md",
+    "report-writing.md",
+    "reading-list.md"
+  ],
+  "targets": [
+    {"repo": "Exploratores", "dest": "docs/field-notes"},
+    {"repo": "Argos", "dest": "docs/field-notes"},
+    {"repo": "Speculator-Project", "dest": "documents/field-notes"},
+    {"repo": "Wukong", "dest": "documentation/field-notes"},
+    {"repo": "quaesitor-project/quaesitor", "dest": "docs/field-notes"},
+    {"repo": "quaesitor-project/quaesitor-sviluppo", "dest": "docs/field-notes"}
+  ]
+}
